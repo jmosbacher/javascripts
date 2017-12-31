@@ -1,7 +1,7 @@
 
 <script
     src="https://jmosbacher.github.io/javascripts/th228_leakage_plots.js"
-    id="746c1429-e78f-4964-8917-de6787aaae81"
-    data-bokeh-model-id="16bfba9d-fd05-48e4-8b0e-9ed96cec42bf"
-    data-bokeh-doc-id="48f28b52-b27b-43b1-aaa6-91de73e90a11"
+    id="56669f1e-d92d-4ed2-91c5-41aeae0d3f37"
+    data-bokeh-model-id="86e1a88e-6b49-4228-8b75-8445b8996fb9"
+    data-bokeh-doc-id="8f89c0bc-5dc9-41a0-9936-1f55fa6341b5"
 ></script>
